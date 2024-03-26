@@ -3,8 +3,10 @@ Version
 1.0.0
 
 📝 Usage
+
 Installation
 $ npm install
+
 Run
 $ npm start
 
