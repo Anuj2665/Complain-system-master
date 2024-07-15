@@ -49,6 +49,8 @@ Acknowledgements
 Special thanks to NIT JALANDHAR for inspiring and supporting this project.
 
 view of site:
+
+
 HomePage:
 
 <img width="959" alt="homepage" src="https://github.com/user-attachments/assets/94f11926-8910-40bf-aa5b-abebd2ca3d77">
