@@ -42,8 +42,11 @@ To get started with this project, follow these steps:
 
 Contributing
 
+<img width="959" alt="admin page" src="https://github.com/user-attachments/assets/77c44eec-c13f-4b99-ac1d-33c9fa1f8b06">
 Contributions to this project are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 Acknowledgements
 
 Special thanks to NIT JALANDHAR for inspiring and supporting this project.
+
+
